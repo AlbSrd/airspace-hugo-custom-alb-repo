@@ -1,8 +1,7 @@
 +++
-bg_image = ""
+bg_image = "/images/asytrack-articoli.png"
 category = "MES - ASYTRACK"
 description = ""
-draft = true
 image = ""
 information = []
 title = "ARTICOLI"
