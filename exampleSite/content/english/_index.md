@@ -38,12 +38,12 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: INTERFACCIA SU MISURA
+  content: Asystel si avvale delle tecnologie più recenti per fornire al committente
+    il massimo grado di interoperabilità e personalizzazione <br/> con una interfaccia
+    risolutiva per innumerevoli esigenze
   button:
-    enable: true
+    enable: false
     label: Tell Us Your Story
     link: contact/
 funfacts:
