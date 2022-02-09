@@ -1,8 +1,8 @@
 +++
-bg_image = "/images/asytrack-approvvigionamenti.png"
+bg_image = ""
 category = "MES - ASYTRACK"
 description = ""
-image = ""
+image = "/images/asytrack-approvvigionamenti.png"
 information = []
 title = "APPROVVIGIONAMENTI"
 
