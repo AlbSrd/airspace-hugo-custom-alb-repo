@@ -1,8 +1,8 @@
 +++
-bg_image = "/images/asytrack-db.png"
+bg_image = ""
 category = "MES - ASYTRACK"
 description = ""
-image = ""
+image = "/images/asytrack-db.png"
 information = []
 title = "MAGAZZINO"
 
