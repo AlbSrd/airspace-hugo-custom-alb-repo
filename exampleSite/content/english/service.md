@@ -68,6 +68,6 @@ service:
     name: Business Intelligence
     content: ''
 cta:
-  enable: true
+  enable: false
 
 ---
