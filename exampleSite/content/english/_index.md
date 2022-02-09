@@ -56,13 +56,13 @@ funfacts:
   - icon: fas fa-mug-hot
     name: Cups Of Coffee
     count: "99"
-  - icon: fas fa-glasses
+  - icon: fas fa-user-tie
     name: Article Written
     count: "45"
   - icon: fas fa-keyboard
     name: Projects Completed
     count: "125"
-  - icon: fas fa-clock
+  - icon: fas fa-tty
     name: Combined Projects
     count: "200"
   testimonial_slider:
