@@ -48,10 +48,9 @@ service:
   - icon: fas fa-headset
     name: Assistenza Online
     content: ''
-  - icon: fas fa-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: fas fa-database
+    name: Database Cloud
+    content: ''
   - icon: fas fa-bug
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
