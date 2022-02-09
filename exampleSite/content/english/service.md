@@ -45,10 +45,9 @@ service:
   - icon: fas fa-robot
     name: Machine Learning
     content: ''
-  - icon: fas fa-layer-group
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: fas fa-headset
+    name: Assistenza Online
+    content: ''
   - icon: fas fa-image
     name: App Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
