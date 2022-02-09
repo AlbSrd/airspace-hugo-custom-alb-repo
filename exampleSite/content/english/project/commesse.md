@@ -1,8 +1,8 @@
 +++
-bg_image = "/images/asytrack-commesse.png"
+bg_image = ""
 category = ""
 description = ""
-image = ""
+image = "/images/asytrack-commesse.png"
 information = []
 title = "COMMESSE"
 
