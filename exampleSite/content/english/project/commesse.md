@@ -1,6 +1,6 @@
 +++
-bg_image = ""
-category = ""
+bg_image = "/images/catena-montaggio.webp"
+category = "MES - ASYTRACK"
 description = ""
 image = "/images/asytrack-commesse.png"
 information = []
