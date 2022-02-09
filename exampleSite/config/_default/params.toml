@@ -25,9 +25,9 @@ use_netlify = true
 use_recaptcha = true
 [cookies]
 button = "Accetto"
-content = "Questo sito utilizza cookies. Continuando acconsenti al loro utilizzo"
+content = "Questo sito utilizza cookies. Continuando acconsenti al loro utilizzo."
 enable = true
-expire_days = "30"
+expire_days = "2"
 [counter]
 enable = false
 username = ""
