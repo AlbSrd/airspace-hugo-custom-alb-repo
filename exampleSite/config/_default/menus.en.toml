@@ -23,7 +23,7 @@ name = "Contact"
 url = "contact/"
 weight = 7
 [[main]]
-name = "Home"
+name = "HOME"
 url = ""
 weight = 1
 [[main]]
