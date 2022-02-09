@@ -35,6 +35,9 @@ portfolio:
     link: project/
 service:
   enable: true
+  service_item: []
+  title: AAAAAAA
+  description: AAAAAAA
 cta:
   enable: true
   bg_image: "/images/operator.webp"
@@ -88,3 +91,4 @@ funfacts:
       richieste di mercato
 
 ---
+AAAAAAAAAAAAAAA
