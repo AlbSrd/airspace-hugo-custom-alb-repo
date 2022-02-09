@@ -37,15 +37,14 @@ featured_service:
       impedit repudiandae omnis est temporibus.
 service:
   enable: true
-  title: Our Services
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  title: I NOSTRI SERVIZI
+  description: Personalizzazione, efficienza e produttività sono le caratteristiche
+    presenti a corredo di tutti i nostri prodotti, insieme ad un Servizio Assistenza
+    7 giorni su 7 per aiutare l'operatore o per intervenire in caso di malfunzionamenti
   service_item:
-  - icon: fas fa-bullseye
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: fas fa-robot
+    name: Machine Learning
+    content: ''
   - icon: fas fa-layer-group
     name: Web Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
