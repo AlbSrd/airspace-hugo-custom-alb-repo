@@ -25,7 +25,7 @@ use_netlify = true
 use_recaptcha = true
 [cookies]
 button = "Accetto"
-content = "Questo sito utilizza cookies. Continuando acconsenti al loro utilizzoL'utilizzo di cookie consente di far funzionare più efficientemente la navigazione e di migliorare l'esperienza online dell'utente. Questo sito utilizza cookie di profilazione, anche di \"terze parti\", che consentono di inviare messaggi pubblicitari in linea con le preferenze dell’utente"
+content = "Questo sito utilizza cookies. Continuando acconsenti al loro utilizzo"
 enable = true
 expire_days = "30"
 [counter]
