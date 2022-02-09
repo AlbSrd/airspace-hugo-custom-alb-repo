@@ -1,13 +1,13 @@
-baseURL = "https://demo.gethugothemes.com/airspace/examplesite/"
+baseURL = "baseurl"
 disableLanguages = []
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
 hasCJKLanguage = false
 paginate = "6"
 summaryLength = "10"
-theme = "airspace-hugo"
+theme = "theme"
 timeZone = "UTC"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Asyster s.r.l. Trevi"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
