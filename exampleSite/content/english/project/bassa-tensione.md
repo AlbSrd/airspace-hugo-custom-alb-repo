@@ -2,7 +2,6 @@
 bg_image = "/images/catena-montaggio.webp"
 category = "CONTABILIZZAZIONE ENERGETICA - ENERGY METER"
 description = ""
-draft = true
 image = "/images/grafanabassatensione.png"
 information = []
 title = "BASSA TENSIONE"
