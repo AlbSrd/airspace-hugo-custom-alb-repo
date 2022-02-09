@@ -54,10 +54,9 @@ service:
   - icon: fas fa-project-diagram
     name: Software Design
     content: ''
-  - icon: fas fa-headphones-alt
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: fas fa-cogs
+    name: Integrazione Hardware
+    content: ''
   - icon: fas fa-leaf
     name: Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
