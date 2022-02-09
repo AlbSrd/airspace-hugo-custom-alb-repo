@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_image: "/images/logo.webp"
   bg_overlay: true
-  title: title homepage
-  content: content homepage
+  title: ''
+  content: ''
   button:
     enable: false
     label: Discover Our Project
