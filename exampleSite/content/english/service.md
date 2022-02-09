@@ -54,8 +54,8 @@ service:
   - icon: fas fa-project-diagram
     name: Software Design
     content: ''
-  - icon: fas fa-cogs
-    name: Integrazione Hardware
+  - icon: fas fa-print
+    name: Gestione Documentale Automatizzata
     content: ''
   - icon: fas fa-leaf
     name: Development
