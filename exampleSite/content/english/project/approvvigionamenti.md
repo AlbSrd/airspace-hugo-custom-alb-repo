@@ -1,5 +1,5 @@
 +++
-bg_image = ""
+bg_image = "/images/asytrack-approvvigionamenti.png"
 category = "MES - ASYTRACK"
 description = ""
 image = ""
