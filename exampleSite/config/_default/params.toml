@@ -12,7 +12,7 @@ logo = "/images/logomini.png"
 logo_text = "ASYSTEL"
 logo_width = "150px"
 navbar_fixed = false
-phone = ""
+phone = "0742 381401"
 recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
 [baidu]
 analytics_id = ""
