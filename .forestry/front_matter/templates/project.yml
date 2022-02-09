@@ -33,6 +33,7 @@ fields:
 pages:
 - exampleSite/content/english/project/approvvigionamenti.md
 - exampleSite/content/english/project/articoli.md
+- exampleSite/content/english/project/bassa-tensione.md
 - exampleSite/content/english/project/commesse.md
 - exampleSite/content/english/project/magazzino.md
 - exampleSite/content/english/project/ordini-cliente.md
