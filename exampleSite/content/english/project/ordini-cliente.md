@@ -7,6 +7,6 @@ information = []
 title = "ORDINI CLIENTE"
 
 +++
-> ## ORDINI CLIENTE
+## ORDINI CLIENTE
 
-#### Permette di gestire gli ordini ricevuti dai clienti e calcolare ciò che deve essere messo in produzione utilizzando materiale già presente in magazzino o da riassortire.
+> #### Permette di gestire gli ordini ricevuti dai clienti e calcolare ciò che deve essere messo in produzione utilizzando materiale già presente in magazzino o da riassortire.
