@@ -7,6 +7,6 @@ information = []
 title = "MAGAZZINO"
 
 +++
-> ## MAGAZZINO
+## MAGAZZINO
 
-#### Situazione, in tempo reale e sempre aggiornata, della giacenza e disponibilità delle materie prime presenti in magazzino.
+> #### Situazione, in tempo reale e sempre aggiornata, della giacenza e disponibilità delle materie prime presenti in magazzino.
