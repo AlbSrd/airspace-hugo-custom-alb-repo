@@ -73,7 +73,7 @@ funfacts:
     count: "200"
   testimonial_slider:
   - name: Report McKinsey Global Institute
-    image: images/clients/avater-1.jpg
+    image: "/images/mckinsey.jpg"
     designation: ''
     content: 'I lavori che si prestano maggiormente ad essere automatizzati sono quelli
       che comportano un’attività fisica (settore manifatturiero e commercio al dettaglio)
