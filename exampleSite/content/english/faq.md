@@ -15,8 +15,8 @@ Serve a supportare e incentivare le imprese che investono in beni strumentali nu
 
 A tutte le imprese che effettuano investimenti in beni strumentali nuovi destinati a strutture produttive ubicate nel territorio dello Stato, a decorrere dal 16 novembre 2020 e fino al 31 dicembre 2022, ovvero entro il 30 giugno 2023, a condizione che entro la data del 31 dicembre 2022 il relativo ordine risulti accettato dal venditore e sia avvenuto il pagamento di acconti in misura almeno pari al 20 per cento del costo di acquisizione, è riconosciuto un credito d’imposta alle seguenti condizioni:
 
-\**1. Beni strumentali materiali tecnologicamente avanzati  
-\**([allegato A](https://www.mise.gov.it/images/stories/documenti/Allegato_A_2016.pdf), legge 11 dicembre 2016, n. 232 - ex Iper ammortamento)
+\*_1. Beni strumentali materiali tecnologicamente avanzati  
+\*_([allegato A](https://www.mise.gov.it/images/stories/documenti/Allegato_A_2016.pdf), legge 11 dicembre 2016, n. 232 - ex Iper ammortamento)
 
 **2021**
 
