@@ -96,4 +96,4 @@ funfacts:
       richieste di mercato
 
 ---
-AAAAAAAAAAAAAAA
+asystel industria incentivi credito imposta informatica tech trevi perugia umbria
