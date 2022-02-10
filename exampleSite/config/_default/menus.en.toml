@@ -7,14 +7,6 @@ name = "PRODOTTI"
 url = "project/"
 weight = 3
 [[footer]]
-name = "HIDDEN"
-url = "service/"
-weight = 4
-[[footer]]
-name = "HIDDEN2"
-url = "pricing/"
-weight = 5
-[[footer]]
 name = "FABBRICA 4.0"
 url = "faq/"
 weight = 6
@@ -23,7 +15,7 @@ name = "CONTATTI"
 url = "contact/"
 weight = 7
 [[main]]
-name = "nuovo"
+name = "FABBRICA 4.0"
 url = "faq/"
 weight = "15"
 [[main]]
@@ -34,21 +26,6 @@ weight = 1
 name = "PRODOTTI"
 url = "project/"
 weight = 3
-[[main]]
-name = "HIDDEN4"
-parent = "More"
-url = "service/"
-weight = 1
-[[main]]
-name = "FABBRICA 4.0"
-parent = "More"
-url = "faq/"
-weight = "4"
-[[main]]
-name = "HIDDEN3"
-parent = "More"
-url = "pricing/"
-weight = 2
 [[main]]
 name = "CONTATTI"
 url = "contact/"
