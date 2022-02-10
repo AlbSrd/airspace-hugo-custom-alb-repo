@@ -82,7 +82,7 @@ funfacts:
       induce un risparmio di tempo che va dal. 64% al 78% a seconda dell''ambito di
       applicazione '
   - name: SAP Digital Transformation Executive Study
-    image: images/clients/avater-1.jpg
+    image: "/images/sap.png"
     designation: ''
     content: |-
       L'85% dei dirigenti afferma che gli sforzi di digitalizzazione hanno aumentato la quota di mercato fino al 39% rispetto agli altri diretti competitor del settore che non utilizzano sistemi infromatizzati.
