@@ -148,44 +148,81 @@ Ai fini del riconoscimento del credito d’imposta, l’effettivo sostenimento d
 
 Le imprese, inoltre, sono tenute a redigere e conservare una relazione tecnica che illustri le finalità, i contenuti e i risultati delle attività ammissibili svolte in ciascun periodo d'imposta in relazione ai progetti o ai sotto progetti in corso di realizzazione. Tale relazione deve essere predisposta a cura del responsabile aziendale delle attività ammissibili o del responsabile del singolo progetto o sotto progetto e deve essere controfirmata dal rappresentante legale dell'impresa. Per le attività ammissibili commissionate a soggetti terzi, la relazione deve essere redatta e rilasciata all'impresa dal soggetto commissionario che esegue le attività..
 
-#### 1.Overview 
+## 3 Credito d'imposta formazione 4.0
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+La misura è volta a sostenere le imprese nel processo di trasformazione tecnologica e digitale creando o consolidando le competenze nelle tecnologie abilitanti necessarie a realizzare il paradigma 4.0.
 
-#### 2. Data We Collect
+Quali vantaggi
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+Il credito d’imposta è riconosciuto in misura del:
 
-#### 3. How We Use Data
+* 50% delle spese ammissibili e nel limite massimo annuale di € 300.000 per le micro e piccole imprese
+* 40% delle spese ammissibili nel limite massimo annuale di € 250.000 per le medie imprese
+* 30% delle spese ammissibili nel limite massimo annuale di € 250.000 le grandi imprese.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+La misura del credito d’imposta è aumentata per tutte le imprese, fermo restando i limiti massimi annuali, al 60% nel caso in cui i destinatari della formazione ammissibile rientrino nelle categorie dei lavoratori dipendenti svantaggiati o molto svantaggiati, come definite dal decreto del Ministro del lavoro e delle politiche sociali del 17 ottobre 2017.
 
-#### 4. How We Disclose Data.
+#### 3.1 Spese ammissibili
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
+Sono ammissibili al credito d’imposta le seguenti spese:
 
-#### 5. Security
+* spese di personale relative ai formatori per le ore di partecipazione alla formazione;
+* costi di esercizio relativi a formatori e partecipanti alla formazione direttamente connessi al progetto di formazione, quali le spese di viaggio, i materiali e le forniture con attinenza diretta al progetto, l’ammortamento degli strumenti e delle attrezzature per la quota da riferire al loro uso esclusivo per il progetto di formazione. Sono escluse le spese di alloggio, ad eccezione delle spese di alloggio minime necessarie per i partecipanti che sono lavoratori con disabilità;
+* costi dei servizi di consulenza connessi al progetto di formazione;
+* spese di personale relative ai partecipanti alla formazione e le spese generali indirette (spese amministrative, locazione, spese generali) per le ore durante le quali i partecipanti hanno seguito la formazione.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
+Sono ammissibili anche le eventuali spese relative al personale dipendente ordinariamente occupato in uno degli ambiti aziendali individuati nell’allegato A della legge n. 205 del 2017 e che partecipi in veste di docente o tutor alle attività di formazione ammissibili.
 
-#### 6. Advertising.
+#### 3.2 Attività di formazione ammissibili
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
+Le attività formative dovranno riguardare: vendite e marketing, informatica, tecniche e tecnologia di produzione.
+
+**Tematiche della Formazione 4.0**
+
+* big data e analisi dei dati;
+* cloud e fog computing;
+* cyber security;
+* simulazione e sistemi cyber-fisici;
+* prototipazione rapida;
+* sistemi di visualizzazione, realtà virtuale (rv) e realtà aumentata (ra);
+* robotica avanzata e collaborativa;
+* interfaccia uomo macchina;
+* manifattura additiva (o stampa tridimensionale);
+* internet delle cose e delle macchine;
+* integrazione digitale dei processi aziendali.
+
+#### 3.3 A chi si rivolge
+
+Tutte le imprese residenti nel territorio dello Stato, incluse le stabili organizzazioni di soggetti non residenti, indipendentemente dalla natura giuridica, dal settore economico di appartenenza, dalla dimensione, dal regime contabile e dal sistema di determinazione del reddito ai fini fiscali.
+
+Sono escluse le imprese in stato di liquidazione volontaria, fallimento, liquidazione coatta amministrativa, concordato preventivo senza continuità aziendale, altra procedura concorsuale. Sono inoltre escluse le imprese destinatarie di sanzioni interdittive ai sensi dell’articolo 9, comma 2, del decreto legislativo 8 giugno 2001, n. 231.
+
+La fruizione del beneficio spettante è subordinata alla condizione del rispetto delle normative sulla sicurezza nei luoghi di lavoro e al corretto adempimento degli obblighi di versamento dei contributi previdenziali e assistenziali a favore dei lavoratori.
+
+#### 3.4 Erogazione delle attività formative
+
+Internamente attraverso personale dipendente; nel caso in cui le attività di formazione siano erogate da soggetti esterni all’impresa si considerano ammissibili solo le attività commissionate a:
+
+* Soggetti accreditati per lo svolgimento di attività di formazione finanziata presso la Regione o Provincia autonoma in cui l’impresa ha la sede legale o la sede operativa;
+* Università, pubbliche o private, o strutture a esse collegate;
+* Soggetti accreditati presso i fondi interprofessionali secondo il regolamento CE 68/01 della Commissione del 12 gennaio 2001;
+* Soggetti in possesso della certificazione di qualità in base alla norma Uni En ISO 9001:2000 settore EA 37;
+* ITS.
+
+#### 3.5 Come si accede
+
+Il credito d’imposta deve essere indicato nella dichiarazione dei redditi relativa al periodo d’imposta in cui sono state sostenute le spese e in quelle relative ai periodi d’imposta successivi fino a quando se ne conclude l’utilizzo.
+
+Il credito è utilizzabile, esclusivamente in compensazione, a decorrere dal periodo d’imposta successivo a quello di sostenimento delle spese ammissibili, presentando il modello F24 attraverso i servizi telematici messi a disposizione dall’Agenzia delle Entrate.
+
+Ai fini dell’ammissibilità al credito d’imposta, l’effettivo sostenimento delle spese ammissibili deve risultare da apposita certificazione – da allegare al bilancio – rilasciata dal soggetto incaricato della revisione legale dei conti. Le imprese non soggette a revisione legale dei conti devono comunque avvalersi delle prestazioni di un revisore legale dei conti o di una società di revisione legale dei conti. Sono escluse dall’obbligo di certificazione le imprese con bilancio revisionato.
+
+È ammissibile, a incremento diretto del credito d’imposta entro il limite di euro 5.000, la spesa sostenuta per adempiere l’obbligo di certificazione contabile da parte delle imprese non soggette ex lege a revisione legale dei conti.
+
+Le imprese beneficiarie del credito d’imposta sono inoltre tenute a redigere e conservare:
+
+* una relazione che illustri le modalità organizzative e i contenuti delle attività di formazione svolte;
+* l’ulteriore documentazione contabile e amministrativa idonea a dimostrare la corretta applicazione del beneficio, anche in funzione del rispetto dei limiti e delle condizioni posti dalla disciplina comunitaria in materia;
+* i registri nominativi di svolgimento delle attività formative sottoscritti dal personale discente e docente o dal soggetto formatore esterno all’impresa.
+
+Le imprese che intendono fruire dell’agevolazione sono tenute ad effettuare una comunicazione al Ministero dello sviluppo economico, richiesta al solo fine di acquisire le informazioni necessarie per valutare l’andamento, la diffusione e l’efficacia delle misure agevolative.
