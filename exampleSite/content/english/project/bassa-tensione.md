@@ -7,7 +7,7 @@ information = []
 title = "COSTI ENERGETICI"
 
 +++
-## **COSTI ENERGETICI**
+## COSTI ENERGETICI
 
 > #### Nell'ultimo ciclo economico i costi legati all'approvvigionamento energetico sono diventtati una voce predominante delle spese fisse aziendali.
 
