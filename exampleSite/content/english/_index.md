@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: "/images/logo50.png"
-  bg_overlay: false
+  bg_overlay: true
   title: ''
   content: ''
   button:
