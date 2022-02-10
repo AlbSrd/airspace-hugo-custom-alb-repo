@@ -15,10 +15,6 @@ name = "CONTATTI"
 url = "contact/"
 weight = 7
 [[main]]
-name = "FABBRICA 4.0"
-url = "faq/"
-weight = "15"
-[[main]]
 name = "HOME"
 url = ""
 weight = 1
@@ -26,6 +22,10 @@ weight = 1
 name = "PRODOTTI"
 url = "project/"
 weight = 3
+[[main]]
+name = "FABBRICA 4.0"
+url = "faq/"
+weight = "15"
 [[main]]
 name = "CONTATTI"
 url = "contact/"
