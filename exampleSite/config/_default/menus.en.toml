@@ -36,15 +36,15 @@ parent = "More"
 url = "service/"
 weight = 1
 [[main]]
+name = "HIDDEN5"
+parent = "More"
+url = "faq/"
+weight = "4"
+[[main]]
 name = "HIDDEN3"
 parent = "More"
 url = "pricing/"
 weight = 2
-[[main]]
-name = "FABBRICA 4.0"
-parent = "More"
-url = "faq/"
-weight = "6"
 [[main]]
 name = "CONTATTI"
 url = "contact/"
