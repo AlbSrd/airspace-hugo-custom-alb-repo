@@ -2,12 +2,12 @@
 title: FABBRICA 4.0
 description: ''
 subtitle: Crediti d'imposta per stimolare gli investimenti
-lastmod: 2022-02-14T01:00:00+00:00
+lastmod: 2022-02-14T01:00:00.000+00:00
 bg_image: "/images/mise.webp"
 layout: faq
 
 ---
-## 1 Credito d’imposta per investimenti in beni strumentali
+## <U>1 Credito d’imposta per investimenti in beni strumentali</U>
 
 Serve a supportare e incentivare le imprese che investono in beni strumentali nuovi, materiali e immateriali, funzionali alla trasformazione tecnologica e digitale dei processi produttivi destinati a strutture produttive ubicate nel territorio dello Stato.
 
@@ -71,7 +71,7 @@ La fruizione del beneficio spettante è subordinata alla condizione del rispetto
 
 Per i beni tecnologicamente avanzati materiali e immateriali, le imprese sono tenute a produrre una perizia tecnica semplice rilasciata da un ingegnere o da un perito industriale iscritti nei rispettivi albi professionali o un attestato di conformità rilasciato da un ente di certificazione accreditato, da cui risulti che i beni possiedono caratteristiche tecniche tali da includerli rispettivamente negli elenchi di cui ai richiamati allegati A e B e sono interconnessi al sistema aziendale di gestione della produzione o alla rete di fornitura. Per i beni di costo unitario di acquisizione non superiore a 300.000 euro è sufficiente una dichiarazione resa dal legale rappresentante.
 
-## 2 Credito d’imposta ricerca e sviluppo, innovazione tecnologica, design e ideazione estetica
+## <U>2 Credito d’imposta ricerca e sviluppo, innovazione tecnologica, design e ideazione estetica</U>
 
 La misura si pone l’obiettivo di sostenere la competitività delle imprese stimolando gli investimenti in Ricerca e Sviluppo, Innovazione tecnologica, anche nell’ambito del paradigma 4.0 e dell’economia circolare, Design e ideazione estetica, sostenuti nel periodo di imposta successivo a quello in corso al 31 dicembre 2019 e fino al periodo d’imposta in corso al 31 dicembre 2022.
 
@@ -148,7 +148,7 @@ Ai fini del riconoscimento del credito d’imposta, l’effettivo sostenimento d
 
 Le imprese, inoltre, sono tenute a redigere e conservare una relazione tecnica che illustri le finalità, i contenuti e i risultati delle attività ammissibili svolte in ciascun periodo d'imposta in relazione ai progetti o ai sotto progetti in corso di realizzazione. Tale relazione deve essere predisposta a cura del responsabile aziendale delle attività ammissibili o del responsabile del singolo progetto o sotto progetto e deve essere controfirmata dal rappresentante legale dell'impresa. Per le attività ammissibili commissionate a soggetti terzi, la relazione deve essere redatta e rilasciata all'impresa dal soggetto commissionario che esegue le attività..
 
-## 3 Credito d'imposta formazione 4.0
+## <U>3 Credito d'imposta formazione 4.0</U>
 
 La misura è volta a sostenere le imprese nel processo di trasformazione tecnologica e digitale creando o consolidando le competenze nelle tecnologie abilitanti necessarie a realizzare il paradigma 4.0.
 
