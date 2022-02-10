@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "/images/logo50.png"
+  bg_image: "/images/logo100.png"
   bg_overlay: false
   title: ''
   content: ''
