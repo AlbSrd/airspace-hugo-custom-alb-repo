@@ -26,7 +26,7 @@ use_recaptcha = true
 [cookies]
 button = "Accetto"
 content = "Questo sito utilizza cookies. Continuando acconsenti al loro utilizzo."
-enable = true
+enable = false
 expire_days = "2"
 [counter]
 enable = false
