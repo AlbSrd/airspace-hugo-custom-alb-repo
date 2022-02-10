@@ -1,7 +1,7 @@
 [[footer]]
-name = "About"
-url = "about/"
-weight = 2
+name = "FAQ"
+url = "faq/"
+weight = 6
 [[footer]]
 name = "PRODOTTI"
 url = "project/"
@@ -15,10 +15,6 @@ name = "Pricing"
 url = "pricing/"
 weight = 5
 [[footer]]
-name = "FAQ"
-url = "faq/"
-weight = 6
-[[footer]]
 name = "CONTATTI"
 url = "contact/"
 weight = 7
@@ -27,17 +23,9 @@ name = "HOME"
 url = ""
 weight = 1
 [[main]]
-name = "About"
-url = "about/"
-weight = 2
-[[main]]
 name = "PRODOTTI"
 url = "project/"
 weight = 3
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 4
 [[main]]
 hasChildren = true
 name = "More"
@@ -53,7 +41,7 @@ parent = "More"
 url = "pricing/"
 weight = 2
 [[main]]
-name = "FAQ"
+name = "FABBRICA 4.0"
 parent = "More"
 url = "faq/"
 weight = 3
