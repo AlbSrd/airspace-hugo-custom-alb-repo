@@ -7,7 +7,7 @@ name = "PRODOTTI"
 url = "project/"
 weight = 3
 [[footer]]
-name = "Service"
+name = "HIDDEN"
 url = "service/"
 weight = 4
 [[footer]]
