@@ -1,22 +1,77 @@
 ---
 title: FABBRICA 4.0
-description: ''
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
-lastmod: '2021-04-01T00:00:00.000+00:00'
+description: Crediti d'imposta per stimolare gli investimenti
+subtitle: T
+lastmod: 2021-04-01T00:00:00.000+00:00
 bg_image: images/feature-bg.jpg
 layout: faq
 
 ---
-### Welcome to Airspace!
+## Credito d’imposta per investimenti in beni strumentali
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+#### **A cosa serve**
+
+Supportare e incentivare le imprese che investono in beni strumentali nuovi, materiali e immateriali, funzionali alla trasformazione tecnologica e digitale dei processi produttivi destinati a strutture produttive ubicate nel territorio dello Stato.
+
+#### Quali vantaggi
+
+A tutte le imprese che effettuano investimenti in beni strumentali nuovi destinati a strutture produttive ubicate nel territorio dello Stato, a decorrere dal 16 novembre 2020 e fino al 31 dicembre 2022, ovvero entro il 30 giugno 2023, a condizione che entro la data del 31 dicembre 2022 il relativo ordine risulti accettato dal venditore e sia avvenuto il pagamento di acconti in misura almeno pari al 20 per cento del costo di acquisizione, è riconosciuto un credito d’imposta alle seguenti condizioni:
+
+**1. Beni strumentali materiali tecnologicamente avanzati  
+**([allegato A](https://www.mise.gov.it/images/stories/documenti/Allegato_A_2016.pdf), legge 11 dicembre 2016, n. 232 - ex Iper ammortamento)
+
+**2021**
+
+* 50% del costo per la quota di investimenti fino a 2,5 milioni di euro
+* 30% del costo per la quota di investimenti oltre i 2,5 milioni di euro e fino al limite di costi complessivamente ammissibili pari a 10 milioni di euro
+* 10% del costo per la quota di investimenti tra i 10 milioni di euro e fino al limite di costi complessivamente ammissibili pari a 20 milioni di euro.
+
+**2022**
+
+* 40% del costo per la quota di investimenti fino a 2,5 milioni di euro
+* 20% del costo per la quota di investimenti oltre i 2,5 milioni di euro e fino al limite di costi complessivamente ammissibili pari a 10 milioni di euro
+* 10% del costo per la quota di investimenti tra i 10 milioni di euro e fino al limite di costi complessivamente ammissibili pari a 20 milioni di euro.
+
+***
+
+**2. Beni strumentali immateriali tecnologicamente avanzati** funzionali ai processi di trasformazione 4.0  
+([allegato B](https://www.mise.gov.it/images/stories/documenti/Allegato_B_2016.pdf), legge 11 dicembre 2016, n. 232, come integrato dall'articolo 1, comma 32, della legge 27 dicembre 2017, n. 205)
+
+* 20% del costo nel limite massimo dei costi ammissibili pari a 1 milione di Euro. Si considerano agevolabili anche le spese per servizi sostenute mediante soluzioni di cloud computing per la quota imputabile per competenza.
+
+***
+
+**3. Altri beni strumentali materiali** (ex Super Ammortamento)  
+diversi da quelli ricompresi nel citato allegato A
+
+**2021**: 10% nel limite massimo dei costi ammissibili pari a 2 milioni di euro.
+
+**2022**: 6% nel limite massimo dei costi ammissibili pari a 2 milioni di euro.
+
+***
+
+**4. Altri beni strumentali immateriali   
+**diversi da quelli ricompresi nel citato allegato B:
+
+**2021**: 10% nel limite massimo dei costi ammissibili pari a 1milione di euro.
+
+**2022**: 6% nel limite massimo dei costi ammissibili pari a 1milione di euro.
+
+Il credito d’imposta è riconosciuto nella misura del 15% se i beni riguardano investimenti in strumenti e dispositivi tecnologici destinati dall’impresa alla realizzazione di modalità di lavoro agile, ai sensi dell’articolo 18 della legge del 22 maggio 2017 n. 81.
+
+#### A chi si rivolge
+
+Tutte le imprese residenti nel territorio dello Stato, incluse le stabili organizzazioni di soggetti non residenti, indipendentemente dalla natura giuridica, dal settore economico di appartenenza, dalla dimensione, dal regime contabile e dal sistema di determinazione del reddito ai fini fiscali.  
+  
+Il credito d'imposta per gli investimenti in altri beni strumentali materiali tradizionali è riconosciuto anche agli esercenti arti e professioni, ai soggetti aderenti al regime forfetario, alle imprese agricole ed alle imprese marittime  
+  
+Sono escluse le imprese in stato di liquidazione volontaria, fallimento, liquidazione coatta amministrativa, concordato preventivo senza continuità aziendale, altra procedura concorsuale. Sono inoltre escluse le imprese destinatarie di sanzioni interdittive ai sensi dell'articolo 9, comma 2, del decreto legislativo 8 giugno 2001, n. 231.  
+  
+La fruizione del beneficio spettante è subordinata alla condizione del rispetto delle normative sulla sicurezza nei luoghi di lavoro e al corretto adempimento degli obblighi di versamento dei contributi previdenziali e assistenziali a favore dei lavoratori.
+
+#### Come si accede
+
+Per i beni tecnologicamente avanzati materiali e immateriali, le imprese sono tenute a produrre una perizia tecnica semplice rilasciata da un ingegnere o da un perito industriale iscritti nei rispettivi albi professionali o un attestato di conformità rilasciato da un ente di certificazione accreditato, da cui risulti che i beni possiedono caratteristiche tecniche tali da includerli rispettivamente negli elenchi di cui ai richiamati allegati A e B e sono interconnessi al sistema aziendale di gestione della produzione o alla rete di fornitura. Per i beni di costo unitario di acquisizione non superiore a 300.000 euro è sufficiente una dichiarazione resa dal legale rappresentante.
 
 #### 1.Overview
 
