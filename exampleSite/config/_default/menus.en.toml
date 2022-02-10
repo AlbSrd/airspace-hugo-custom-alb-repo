@@ -36,7 +36,7 @@ parent = "More"
 url = "service/"
 weight = 1
 [[main]]
-name = "Pricing"
+name = "HIDDEN3"
 parent = "More"
 url = "pricing/"
 weight = 2
