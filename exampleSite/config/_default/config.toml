@@ -7,7 +7,7 @@ paginate = "6"
 summaryLength = "10"
 theme = "theme"
 timeZone = "UTC"
-title = "Asystel s.r.l. Trevi"
+title = "Asystel s.r.l. Trevi (PG)"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
