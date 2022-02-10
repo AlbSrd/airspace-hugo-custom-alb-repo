@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: true
+  enable: false
   bg_image: "/images/untitled.svg"
   bg_overlay: false
   title: ''
