@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "/images/logo.svg"
+  bg_image: "/images/resized.svg"
   bg_overlay: false
   title: ''
   content: ''
