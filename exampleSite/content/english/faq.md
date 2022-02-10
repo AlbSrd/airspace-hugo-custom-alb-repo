@@ -148,7 +148,7 @@ Ai fini del riconoscimento del credito d’imposta, l’effettivo sostenimento d
 
 Le imprese, inoltre, sono tenute a redigere e conservare una relazione tecnica che illustri le finalità, i contenuti e i risultati delle attività ammissibili svolte in ciascun periodo d'imposta in relazione ai progetti o ai sotto progetti in corso di realizzazione. Tale relazione deve essere predisposta a cura del responsabile aziendale delle attività ammissibili o del responsabile del singolo progetto o sotto progetto e deve essere controfirmata dal rappresentante legale dell'impresa. Per le attività ammissibili commissionate a soggetti terzi, la relazione deve essere redatta e rilasciata all'impresa dal soggetto commissionario che esegue le attività..
 
-#### 1.Overview
+#### 1.Overview 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
 neque excepturi aliquid. Eligendi, mollitia.
