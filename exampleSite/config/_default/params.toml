@@ -3,7 +3,7 @@ author = "Themefisher"
 copyright = ""
 custom_script = ""
 description = "This is meta description"
-email = "demo@email.com"
+email = "per contattarci utilizzare il modulo sopra"
 favicon = "images/favicon.png"
 google_tag_manager = ""
 image = "images/logo.png"
@@ -61,19 +61,3 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 icon = "fab fa-facebook"
 link = "#"
 title = "facebook"
-[[social]]
-icon = "fab fa-twitter"
-link = "#"
-title = "twitter"
-[[social]]
-icon = "fab fa-instagram"
-link = "#"
-title = "instagram"
-[[social]]
-icon = "fab fa-github"
-link = "#"
-title = "github"
-[[social]]
-icon = "fab fa-linkedin"
-link = "#"
-title = "linkedin"
