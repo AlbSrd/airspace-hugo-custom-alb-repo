@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "/images/logo.webp"
+  bg_image: "/images/logoanimato.svg"
   bg_overlay: true
   title: ''
   content: ''
