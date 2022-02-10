@@ -23,6 +23,10 @@ name = "CONTATTI"
 url = "contact/"
 weight = 7
 [[main]]
+name = "nuovo"
+url = "faq/"
+weight = "15"
+[[main]]
 name = "HOME"
 url = ""
 weight = 1
