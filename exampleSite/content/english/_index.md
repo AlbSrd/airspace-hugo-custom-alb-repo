@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "/images/logoanimato.svg"
+  bg_image: "/images/logo_asystel_vettoriale.svg"
   bg_overlay: true
   title: ''
   content: ''
