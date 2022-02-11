@@ -65,9 +65,9 @@ funfacts:
   - icon: fas fa-phone
     name: assistenza annuale
     count: "365"
-  - icon: fas fa-keyboard
-    name: Projects Completed
-    count: "125"
+  - icon: fas fa-clock
+    name: velocità di progettazione
+    count: "24"
   - icon: fas fa-users-gear
     name: clienti
     count: "144"
