@@ -19,7 +19,7 @@ social = []
 analytics_id = ""
 enable = false
 [contact.form]
-action = "#mrgjpnnd"
+action = "https://formspree.io/f/mrgjpnnd"
 enable = true
 success_image = "images/paper-plane.svg"
 use_netlify = false
