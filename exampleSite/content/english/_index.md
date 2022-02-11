@@ -66,7 +66,7 @@ funfacts:
     name: ''
     count: "24"
   - icon: fas fa-clock
-    name: velocità di progettazione
+    name: ''
     count: "24"
   - icon: fas fa-users-gear
     name: ''
