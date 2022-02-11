@@ -2,6 +2,24 @@
 
 {{ partial "page-title.html" . }}
 
+
+<form id="fs-frm" name="complaint-form" accept-charset="utf-8" action="https://formspree.io/f/mrgjpnnd" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Nome e Cognome</label>
+    <input type="text" name="name" id="full-name" placeholder="Nome Cognome" required="">
+    <label for="email-address">Indirizzo Email</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@dominio.it" required="">
+    <label for="telephone">Numero di telefono (Opzionale)</label>
+    <input type="telephone" name="telephone" id="telephone" placeholder="+39">
+    <label for="complaint">Messagio</label>
+    <textarea rows="6" name="complaint" id="complaint" placeholder="Inserire la vostra richiesta" required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Complaint Form Submission">
+  </fieldset>
+  <input type="submit" value="File Complaint">
+</form>
+
+
+
 <section class="contact-form">
   <div class="container">
     {{ with site.Params.contact.form }}{{ if .enable -}}
