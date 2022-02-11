@@ -62,9 +62,9 @@ funfacts:
   - icon: fas fa-calendar-day
     name: anni di esperienza
     count: "21"
-  - icon: fas fa-user-tie
-    name: Article Written
-    count: "45"
+  - icon: fas fa-phone
+    name: assistenza annuale
+    count: "365"
   - icon: fas fa-keyboard
     name: Projects Completed
     count: "125"
