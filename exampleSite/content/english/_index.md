@@ -63,8 +63,8 @@ funfacts:
     name: ''
     count: "365"
   - icon: fas fa-phone
-    name: assistenza annuale
-    count: "365"
+    name: ''
+    count: "24"
   - icon: fas fa-clock
     name: velocità di progettazione
     count: "24"
