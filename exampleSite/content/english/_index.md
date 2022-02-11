@@ -68,9 +68,9 @@ funfacts:
   - icon: fas fa-keyboard
     name: Projects Completed
     count: "125"
-  - icon: fas fa-tty
-    name: ''
-    count: "200"
+  - icon: fas fa-users-gear
+    name: clienti
+    count: "144"
   testimonial_slider:
   - name: Report McKinsey Global Institute
     image: "/images/mckinsey.jpg"
