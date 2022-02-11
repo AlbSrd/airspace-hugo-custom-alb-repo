@@ -69,7 +69,7 @@ funfacts:
     name: velocità di progettazione
     count: "24"
   - icon: fas fa-users-gear
-    name: clienti
+    name: ''
     count: "144"
   testimonial_slider:
   - name: Report McKinsey Global Institute
