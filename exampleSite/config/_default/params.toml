@@ -22,8 +22,8 @@ enable = false
 action = "mrgjpnnd"
 enable = true
 success_image = "images/paper-plane.svg"
-use_netlify = true
-use_recaptcha = true
+use_netlify = false
+use_recaptcha = false
 [cookies]
 button = "Accetto"
 content = "Questo sito utilizza cookies. Continuando acconsenti al loro utilizzo."
