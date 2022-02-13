@@ -63,8 +63,8 @@ funfacts:
     name: ''
     count: "365"
   - icon: fas fa-phone
-    name: assistenza telefonica
-    count: ''
+    name: ''
+    count: "7"
   - icon: fas fa-clock
     name: ''
     count: "24"
