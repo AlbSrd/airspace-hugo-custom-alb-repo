@@ -68,7 +68,7 @@ funfacts:
   - icon: fas fa-clock
     name: ''
     count: "24"
-  - icon: fas fa-users-gear
+  - icon: fas fa-industry
     name: ''
     count: "144"
   testimonial_slider:
