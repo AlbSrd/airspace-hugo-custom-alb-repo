@@ -1,6 +1,6 @@
 [[footer]]
 name = "TELEFONO 0742 381401"
-url = "href="tel:123-456-7890">123-456-7890"
+url = <a href="tel:+31123456789">Call us</a>
 weight = "9"
 [[footer]]
 name = "HOME"
