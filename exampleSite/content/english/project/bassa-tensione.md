@@ -31,4 +31,4 @@ title = "COSTI ENERGETICI "
 >
 > #### [https://play.grafana.org/d/000000012/grafana-play-home?orgId=1](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1 "https://play.grafana.org/d/000000012/grafana-play-home?orgId=1")
 
- #### Download brochure ASYSTEL energy meter: <a href="AsyTreck Energy Meter - clean.pptx" download="ASYTRACK ENERGY METER">
+ #### Download brochure ASYSTEL energy meter: <a href="Brochure.pptx" download="ASYTRACK ENERGY METER">
