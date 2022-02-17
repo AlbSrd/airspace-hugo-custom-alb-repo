@@ -37,4 +37,4 @@ title = "COSTI ENERGETICI "
 
 Formato [Power Point](/images/asytrack-energy-meter.pptx)
 
-Formato PDF
+Formato [PDF](/images/asytrack-energy-meter.pdf)
