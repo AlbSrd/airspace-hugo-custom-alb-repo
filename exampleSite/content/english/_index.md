@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: "/images/cable.jpg"
-  bg_overlay: true
+  bg_overlay: false
   title: ''
   content: ''
   button:
