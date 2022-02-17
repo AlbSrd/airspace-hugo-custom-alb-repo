@@ -2,7 +2,7 @@
 bg_image = "/images/catena-montaggio.webp"
 category = "CONTABILIZZAZIONE ENERGETICA - ENERGY METER"
 description = ""
-image = "/images/grafanabassatensione.png"
+image = "/images/prezzi-001.jpeg"
 information = []
 title = "COSTI ENERGETICI "
 
