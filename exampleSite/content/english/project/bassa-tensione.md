@@ -11,17 +11,19 @@ title = "COSTI ENERGETICI "
 
 > #### Nell'ultimo ciclo economico i costi legati all'approvvigionamento energetico sono diventtati una voce predominante delle spese fisse aziendali.
 
-![](/images/colonneprezzo.png)
+![](/images/prezzi-001.jpeg)
 
 ## MONITORAGGIO ENERGETICO
 
 > #### Il monitoraggio energetico è uno strumento utile per tutte le aziende tenute a rispondere agli obblighi normativi in tema di efficienza energetica. Permette a tutte di ottimizzare i consumi migliorando la produzione attraverso una migliore gestione e distribuzione dell’energia, diminuendo i costi di manutenzione grazie all’impostazione di azioni correttive, e attraverso il controllo e la gestione delle anomalie. L’uso ragionato dei dati rilevati, elaborati dalla piattaforma di monitoraggio, è l’inizio di ogni strategia di ottimizzazione delle risorse energetiche e ambientali. Contare su un sistema di monitoraggio permette di migliorare a livello gestionale la vita aziendale. Ciò si traduce nell’ottimizzare i consumi migliorando la produzione attraverso una efficace gestione e distribuzione dell’energia, diminuendo i costi di manutenzione grazie all’impostazione di interventi che vanno a correggere eventuali anomalie
 
-![](/images/energia.png)
+![](/images/ingressi-001.jpeg)
 
 ## ASYTRACK ENERGY METER
 
 > #### Il sistema di monitoraggio AsyTrack ENERGY METER raccoglie i consumi rilevati dai contatori della rete di fornitura e/o dall’eventuale produzione interna e li trasmette, in tempo reale, al software che li acquisirà e li storicizzerà nel database Big Data.
+
+![](/images/protocolli-001.jpeg)
 
 ## DASHBOARD
 
@@ -31,5 +33,8 @@ title = "COSTI ENERGETICI "
 >
 > #### [https://play.grafana.org/d/000000012/grafana-play-home?orgId=1](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1 "https://play.grafana.org/d/000000012/grafana-play-home?orgId=1")
 
- #### Download brochure ASYSTEL Energy Meter in formato Microsoft Power Point:
- [Download](/images/Brochure.pptx)
+#### Download brochure AsyTrack Energy Meter:
+
+Formato [Power Point]()
+
+Formato PDF
