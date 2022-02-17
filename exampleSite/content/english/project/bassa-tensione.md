@@ -11,7 +11,7 @@ title = "COSTI ENERGETICI "
 
 > #### Nell'ultimo ciclo economico i costi legati all'approvvigionamento energetico sono diventtati una voce predominante delle spese fisse aziendali.
 
-![](/images/colonneprezzo.png)
+![](/images/ingressi-001.jpeg)
 
 ## MONITORAGGIO ENERGETICO
 
@@ -31,5 +31,6 @@ title = "COSTI ENERGETICI "
 >
 > #### [https://play.grafana.org/d/000000012/grafana-play-home?orgId=1](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1 "https://play.grafana.org/d/000000012/grafana-play-home?orgId=1")
 
- #### Download brochure ASYSTEL Energy Meter in formato Microsoft Power Point:
- [Download](/images/Brochure.pptx)
+#### Download brochure ASYSTEL Energy Meter in formato Microsoft Power Point:
+
+[Download](/images/Brochure.pptx)
