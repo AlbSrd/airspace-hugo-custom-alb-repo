@@ -35,6 +35,6 @@ title = "COSTI ENERGETICI "
 
 #### Download brochure ASYSTEL Energy Meter:
 
-formato [Power Point](/images/asytrack-energy-meter.pdf)
+Formato [Power Point](/images/asytrack-energy-meter.pptx)
 
-formato [PDF](/images/asytrack-energy-meter.pdf)
+Formato [PDF](/images/asytrack-energy-meter.pdf)
