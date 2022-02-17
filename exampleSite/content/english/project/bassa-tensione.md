@@ -35,6 +35,6 @@ title = "COSTI ENERGETICI "
 
 #### Download brochure AsyTrack Energy Meter:
 
-Formato [Power Point]()
+Formato [Power Point](/images/asytrack-energy-meter.pptx)
 
 Formato PDF
