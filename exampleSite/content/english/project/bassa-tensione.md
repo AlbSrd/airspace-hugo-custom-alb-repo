@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/catena-montaggio.webp"
-category = "CONTABILIZZAZIONE ENERGETICA - ENERGY METER"
+category = "ASYTRACK"
 description = ""
 image = "/images/grafanabassatensione.png"
 information = []
