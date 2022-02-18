@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/catena-montaggio.webp"
-category = ""
+category = "MES - ASYTRACK"
 description = ""
 image = ""
 information = []
