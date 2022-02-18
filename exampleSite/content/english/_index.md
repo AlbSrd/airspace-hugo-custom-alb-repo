@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "/images/cable.jpg"
+  bg_image: "/images/home.png"
   bg_overlay: false
   title: ''
   content: ''
