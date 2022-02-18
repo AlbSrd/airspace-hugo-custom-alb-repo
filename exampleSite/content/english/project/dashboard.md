@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/catena-montaggio.webp"
-category = ""
+category = "ENERGY METER"
 description = ""
 image = "/images/grafanabassatensione.png"
 information = []
