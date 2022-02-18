@@ -24,19 +24,3 @@ title = "ENERGY METER"
 > #### Il sistema di monitoraggio AsyTrack ENERGY METER raccoglie i consumi rilevati dai contatori della rete di fornitura e/o dall’eventuale produzione interna e li trasmette, in tempo reale, al software che li acquisirà e li storicizzerà nel database Big Data.
 
 ![](/images/protocolli-002.png)
-
-## DASHBOARD
-
-> #### Grazie all'utilizzo di grafici interattivi consultabili via web si potranno monitorare i vettori energetici come elettricità, vapore e gas ed i livelli di potenza registrati da ciascun impianto; si potrà inoltre vederne l’incidenza, eseguire rapidi confronti tra periodi temporali differenti e sperimentare gli effetti di azioni correttive applicate sull’utilizzo degli stessi.
-
-![](/images/grafanabassatensione.png)
-
-> #### Un esempio è il grafico che potete consultare al link seguente:
->
-> #### [https://play.grafana.org/d/000000012/grafana-play-home?orgId=1](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1 "https://play.grafana.org/d/000000012/grafana-play-home?orgId=1")
-
-#### Download brochure AsyTrack Energy Meter:
-
-Formato [Power Point](/images/asytrack-energy-meter.pptx)
-
-Formato [PDF](/images/asytrack-energy-meter.pdf)
