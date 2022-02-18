@@ -2,7 +2,7 @@
 bg_image = "/images/catena-montaggio.webp"
 category = "MES - ASYTRACK"
 description = ""
-image = ""
+image = "/images/asytrackpmi.jpg"
 information = []
 title = "ASYTRACK PMI"
 
