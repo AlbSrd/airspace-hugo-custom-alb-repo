@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "/images/home.png"
+  bg_image: "/images/homeindustry.png"
   bg_overlay: false
   title: ''
   content: ''
