@@ -11,7 +11,7 @@ title = "ASYTRACK PMI"
 >
 > Per rendere reale tale concetto risulta fondamentale l’uso di un sistema informatico che colleghi macchine, persone e sistemi tra loro raggiungendo la piena integrazione tra le varie tipologie di informazioni.
 
-![](/images/mes-erp.png)
+![](/images/mes-erp-empty.png)
 
 > Lo strumento completo che consente di interconnettere le macchine e di dotarsi di un sistema di controllo centrale è AsyTrack PMI
 
