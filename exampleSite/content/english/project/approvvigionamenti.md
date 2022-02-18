@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/catena-montaggio.webp"
-category = "MES - ASYTRACK"
+category = "PROCESS MANAGEMENT IMPROVER"
 description = ""
 image = "/images/asytrack-approvvigionamenti.png"
 information = []
