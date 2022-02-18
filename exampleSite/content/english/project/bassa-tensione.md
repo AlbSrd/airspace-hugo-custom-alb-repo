@@ -4,7 +4,7 @@ category = "CONTABILIZZAZIONE ENERGETICA - ENERGY METER"
 description = ""
 image = "/images/grafanabassatensione.png"
 information = []
-title = "COSTI ENERGETICI "
+title = "ENERGY METER"
 
 +++
 ## COSTI ENERGETICI
