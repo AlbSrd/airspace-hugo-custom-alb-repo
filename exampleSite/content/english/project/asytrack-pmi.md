@@ -2,7 +2,6 @@
 bg_image = "/images/catena-montaggio.webp"
 category = ""
 description = ""
-draft = true
 image = ""
 information = []
 title = "ASYTRACK PMI"
@@ -23,6 +22,8 @@ title = "ASYTRACK PMI"
 > Si colloca a metà tra un sistema gestionale ed un sistema M.E.S.
 >
 > E' un gestionale orientato al controllo della produzione rivolto a piccole e medie aziende che operano in vari settori produttivi, elettronico, meccanico e manifatturiero in genere.
+
+![](/images/asytrack-pyramid.png)
 
 > La sua modularità garantisce una ideale pertinenza tra il software e le esigenze pratico-applicative.
 >
