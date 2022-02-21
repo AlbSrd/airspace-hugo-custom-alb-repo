@@ -14,9 +14,3 @@ title = "DASHBOARD"
 > #### Un esempio è il grafico che potete consultare al link seguente:
 >
 > #### [https://play.grafana.org/d/000000012/grafana-play-home?orgId=1](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1 "https://play.grafana.org/d/000000012/grafana-play-home?orgId=1")
->
-> #### Download brochure AsyTrack Energy Meter:
-
-Formato [Power Point](/images/asytrack-energy-meter.pptx)
-
-Formato [PDF](/images/asytrack-energy-meter.pdf)
