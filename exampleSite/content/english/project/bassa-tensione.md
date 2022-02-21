@@ -24,3 +24,9 @@ title = "ENERGY METER"
 > #### Il sistema di monitoraggio AsyTrack ENERGY METER raccoglie i consumi rilevati dai contatori della rete di fornitura e/o dall’eventuale produzione interna e li trasmette, in tempo reale, al software che li acquisirà e li storicizzerà nel database Big Data.
 
 ![](/images/protocolli-002.png)
+
+#### Download brochure AsyTrack Energy Meter:
+
+Formato [Power Point](https://www.asystelsrl.it/images/asytrack-energy-meter.pptx)
+
+Formato [PDF](https://app.forestry.io/sites/aitmhr8-68b4ia/body-media//images/asytrack-energy-meter.pdf)
