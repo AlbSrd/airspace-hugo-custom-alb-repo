@@ -27,6 +27,6 @@ title = "ENERGY METER"
 
 > #### Download brochure AsyTrack Energy Meter:
 >
-> Formato [Power Point](https://www.asystelsrl.it/images/asytrack-energy-meter.pptx)
+> #### Formato [Power Point](https://www.asystelsrl.it/images/asytrack-energy-meter.pptx)
 >
-> Formato [PDF](/images/asytrack-energy-meter.pdf)
+> #### Formato [PDF](/images/asytrack-energy-meter.pdf)
