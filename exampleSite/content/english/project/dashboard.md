@@ -19,4 +19,4 @@ title = "DASHBOARD"
 
 Formato [Power Point](/images/asytrack-energy-meter.pptx)
 
-Formato [PDF](/images/asytrack-energy-meter.pdf) 1234
+Formato [PDF](/images/asytrack-energy-meter.pdf)
