@@ -13,7 +13,6 @@ information:
   info: Photoshop,Illustrator
 - label: Skills
   info: HTML5 / PHP / CSS3
-draft: true
 
 ---
 ## Download 
