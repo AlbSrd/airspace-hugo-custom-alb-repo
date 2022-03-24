@@ -1,11 +1,11 @@
 [[footer]]
 name = "DOWNLOAD"
 url = ""
-weight = "8"
+weight = "80"
 [[footer]]
 name = "TELEFONO 0742 381401"
 url = "contact/"
-weight = "9"
+weight = "90"
 [[footer]]
 name = "HOME"
 url = ""
@@ -13,15 +13,15 @@ weight = "1"
 [[footer]]
 name = "PRODOTTI"
 url = "project/"
-weight = 3
+weight = "30"
 [[footer]]
 name = "FABBRICA 4.0"
 url = "faq/"
-weight = 6
+weight = "60"
 [[footer]]
 name = "CONTATTI"
 url = "contact/"
-weight = 7
+weight = "70"
 [[main]]
 name = "HOME"
 url = ""
