@@ -1,9 +1,9 @@
 ---
-title: Rio Furniture
+title: DOWNLOAD
 description: this is meta description
 image: images/portfolio/work5.jpg
 bg_image: images/feature-bg.jpg
-category: Illustration
+category: Download
 information:
 - label: Client
   info: Jannie Kelonsky
@@ -11,12 +11,8 @@ information:
   info: Website Redesign
 - label: Tools Used
   info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
 - label: Skills
   info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
 draft: true
 
 ---
