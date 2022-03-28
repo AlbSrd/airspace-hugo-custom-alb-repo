@@ -1,6 +1,6 @@
 ---
 title: FABBRICA 4.0
-description: ''
+description: Normativa riguardante il credito d'imposta di cui potete beneficiare
 subtitle: Crediti d'imposta per stimolare gli investimenti
 lastmod: 2022-02-14T01:00:00.000+00:00
 bg_image: "/images/mise.webp"
