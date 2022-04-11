@@ -28,3 +28,16 @@ fields:
   - type: number
     name: weight
     label: weight
+  - name: dlw
+    type: select
+    default: ''
+    config:
+      required: false
+      options: []
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Dlw
+    description: dlw description
